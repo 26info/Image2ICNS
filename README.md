@@ -77,4 +77,4 @@ Turn any image into a professional macOS app icon in just a few clicks!
 *Perfect for creating beautiful app icons!* 🎨
 
 ## 📥 Скачать | Download
-**[Image2ICNS-v1.0.app.zip](https://github.com/your-username/Image2ICNS/releases/download/v1.0/Image2ICNS-v1.0.app.zip)**
+**[Image2ICNS-v1.0.app.zip](https://github.com/26info/Image2ICNS/releases)**
