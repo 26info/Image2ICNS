@@ -22,9 +22,6 @@
 - **Конвертирует любые изображения** в формат ICNS (PNG, JPEG и другие)
 - **Создает все нужные размеры** иконок автоматически
 - **Работает на Retina дисплеях** — иконки будут четкими на любом экране
-- **Запоминает вашу папку** — каждый раз открывается там, где вы в последний раз работали
-- **Предлагает умное имя** на основе вашего файла
-- **Сохраняет рядом с исходным файлом** — не нужно ничего перемещать
 
 ### 🚀 Как пользоваться
 
@@ -53,9 +50,6 @@ Turn any image into a professional macOS app icon in just a few clicks!
 - **Converts any images** to ICNS format (PNG, JPEG and others)
 - **Creates all required icon sizes** automatically
 - **Works on Retina displays** — icons will be sharp on any screen
-- **Remembers your folder** — opens where you last worked
-- **Suggests smart names** based on your file
-- **Saves next to original file** — no need to move anything
 
 ### 🚀 How to use
 
