@@ -1,7 +1,5 @@
 # Image2ICNS
 
-**Конвертация изображений в формат ICNS для macOS | Converting images to ICNS format for macOS**
-
 <div align="center">
 
 [![macOS](https://img.shields.io/badge/macOS-10.13+-blue?logo=apple)](https://www.apple.com/macos/)
