@@ -5,6 +5,7 @@
 <div align="center">
 
 [![macOS](https://img.shields.io/badge/macOS-10.13+-blue?logo=apple)](https://www.apple.com/macos/)
+[![Downloads](https://img.shields.io/github/downloads/26info/Image2ICNS/total.svg)](https://github.com/26info/Image2ICNS/releases)
 
 ![i2c](https://github.com/user-attachments/assets/9dcb90ca-7ef0-4fe5-a0b1-bc685d4c5d8d)
 
